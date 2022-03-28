@@ -1,7 +1,7 @@
 ### Seja bem vindo ao meu perfil, sou o Diogo Ramalho Reis !
 
 - 🔭 Busco uma oportunidade na área de FullStack, em um cargo junior.
-- 📖 Aprofundando conhecimentos em Bootstrap , React e Spring boot.
+- 📖 Aprofundando conhecimentos em React e Spring boot.
 
 <div align="center">
   <a href="https://github.com/diogaorecode">
