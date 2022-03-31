@@ -1,7 +1,12 @@
-### Seja bem vindo ao meu perfil, sou o Diogo Ramalho Reis !
+   ### Seja bem vindo ao meu perfil, sou o Diogo Ramalho !
+<p>
+  <a href="https://github.com/Diogo/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"  ></a>
+</p>
 
 - 🔭 Busco uma oportunidade na área de FullStack, em um cargo junior.
 - 📖 Aprofundando conhecimentos em React e Spring boot.
+
+
 
 <div align="center">
   <a href="https://github.com/diogaorecode">
