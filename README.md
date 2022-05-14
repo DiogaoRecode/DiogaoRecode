@@ -4,7 +4,7 @@
 </p>
 
 - 🔭 Busco uma oportunidade na área de FullStack, em um cargo junior.
-- 📖 Aprofundando conhecimentos em React e Spring boot.
+- 📖 Aprofundando conhecimentos em React, NodeJs e Spring boot.
 
 
 
