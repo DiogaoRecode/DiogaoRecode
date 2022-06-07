@@ -1,9 +1,9 @@
    
  <div align="center"><a href="https://imgur.com/60b1nkZ"><img src="https://imgur.com/60b1nkZ.png" title="source:imgur.com"/></a></div>
  
-<p alingn="center">
+ <div align="center">
   <a href="https://github.com/DiogaoRecode?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"  ></a>
-</p>
+</div>
 
 - 🔭 Busco uma oportunidade na área de FullStack, em um cargo junior.
 - 📖 Aprofundando conhecimentos em React, NodeJs e Spring boot.
