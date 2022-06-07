@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogaorecode&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Diogo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,6 +24,11 @@
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/93298872/160322678-3d44831e-a6c6-41f5-b981-4d5fb74f1f60.gif">
+   <img align="right" alt="Diogo-node" height="150" style="border-radius:50px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="right" alt="Diogo-ts" height="150" style="border-radius:50px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
+          
+   
   </div>
 
   ##
