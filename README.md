@@ -23,12 +23,10 @@
   <img align="center" alt="Diogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Diogo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Diogo-Csharp" height="30" width="40" "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="Diogo-Csharp" height="30" width="40"  "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="right" alt="Diogo-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/93298872/160322678-3d44831e-a6c6-41f5-b981-4d5fb74f1f60.gif">
-   <img align="right" alt="Diogo-node" height="150" style="border-radius:50px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-   <img align="right" alt="Diogo-ts" height="150" style="border-radius:50px; "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
           
-          
-   
   </div>
 
   ##
