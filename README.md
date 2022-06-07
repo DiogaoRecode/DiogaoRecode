@@ -1,6 +1,6 @@
    ### Seja bem vindo ao meu perfil, sou o Diogo Ramalho !
    
- <div align><a href="https://imgur.com/YE9M2ND"><img src="https://imgur.com/YE9M2ND.png" title="source:imgur.com"/></a></div>
+ <div align="center"><a href="https://imgur.com/YE9M2ND"><img src="https://imgur.com/YE9M2ND.png" title="source:imgur.com"/></a></div>
  
 <p>
   <a href="https://github.com/DiogaoRecode?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"  ></a>
