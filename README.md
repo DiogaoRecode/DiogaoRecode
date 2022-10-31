@@ -5,8 +5,7 @@
   <a href="https://github.com/DiogaoRecode?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&size=22"  ></a>
 </div>
 
-- 🔭 Busco uma oportunidade na área de FullStack, em um cargo junior.
-- 📖 Aprofundando conhecimentos em React, NodeJs e Spring boot.
+- 📖 Aprofundando conhecimentos em Java, MySql e Spring boot.
 
 
 
